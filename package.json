@@ -49,7 +49,7 @@ s{
     "@uniswap/token-lists": "^1.0.0-beta.19",
     "@uniswap/v2-core": "1.0.0",
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
-    "@quickswap-sdk": "^3.0.8",
+    "@quickswap-sdk": "^2.0.2",
     "@uniswap/v3-core": "1.0.0",
     "@uniswap/v3-periphery": "1.0.0",
     "@web3-react/core": "^6.0.9",
